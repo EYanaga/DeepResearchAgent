@@ -175,3 +175,4 @@ cython_debug/
 
 # My Files
 keys.txt
+requirements.txt
