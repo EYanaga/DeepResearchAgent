@@ -1,5 +1,5 @@
 # DeepResearchAgent
-First deep research agent
+First deep research agent. Made following a tutorial.
 
 Setup:
 1. Make venv with python: -m venv venv
